@@ -1,2 +1,2 @@
 Simple Clock application implemented using DrawScope API of Canvas Composable function
-![image](https://github.com/user-attachments/assets/3a38f9c1-5471-4740-b428-2f23384ee7d8)
+![image](https://github.com/user-attachments/assets/3f9d3236-a2cf-42e5-bf31-69333d232040)
